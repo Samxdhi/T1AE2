@@ -1,5 +1,13 @@
 García Soler
 
+<<<<<<< HEAD
 Este cambio es del ejercio 4, repositorio user2
 
 user2
+=======
+<<<<<<< HEAD
+user1
+=======
+Este cambio es del ejercio 4, repositorio user2
+>>>>>>> 5aca8abd2f08b606f59c7e3c331b8226fccf0de8
+>>>>>>> 81e28c06a1458c9c9d06fd635079af78cb311f3c
